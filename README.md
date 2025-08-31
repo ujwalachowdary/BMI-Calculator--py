@@ -8,30 +8,7 @@ Weight (in pounds)
 Height (in inches)
 Calculates BMI using the formula:
 
-𝐵
-𝑀
-𝐼
-=
-𝑤
-𝑒
-𝑖
-𝑔
-ℎ
-𝑡
-×
-703
-ℎ
-𝑒
-𝑖
-𝑔
-ℎ
-𝑡
-2
-BMI=
-height
-2
-weight×703
-	​
+bmi = (weight *703)/(height* height)​
 
 
 Categorizes BMI into health ranges:
